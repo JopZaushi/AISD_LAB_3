@@ -1,0 +1,4 @@
+﻿  UnitTest_for_tree.cpp
+D:\Program Files (x86)\programs\aisd_3_lab\aisd_3_lab\Classes Tree, Stack and Queue.h(304): warning C4715: tree::contains: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\Program Files (x86)\programs\aisd_3_lab\Debug\UnitTest_for_tree.lib и объект D:\Program Files (x86)\programs\aisd_3_lab\Debug\UnitTest_for_tree.exp
+  UnitTest_for_tree.vcxproj -> D:\Program Files (x86)\programs\aisd_3_lab\Debug\UnitTest_for_tree.dll
